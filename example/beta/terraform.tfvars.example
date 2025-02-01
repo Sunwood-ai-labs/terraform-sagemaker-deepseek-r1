@@ -1,0 +1,7 @@
+region = "us-east-1"
+
+sagemaker_execution_role_name = "sagemaker_execution_role_deepseek"
+
+sagemaker_endpoint_name = "deepseek-r1-endpoint"
+
+jumpstart_model_image = "123456789012.dkr.ecr.us-east-1.amazonaws.com/deepseek-llm-r1:latest"
