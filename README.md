@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="assets/deepseek_header.svg" alt="DeepSeek Header" width="800">
-</div>
-
+  <img src="assets/deepseek_header.svg" alt="DeepSeek Header" width="100%">
+  
 # 🚀 DeepSeek-R1 on SageMaker via Terraform
 
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20Terraform-blue" alt="Tech Stack Badge">
+    <img src="https://img.shields.io/github/stars/username/repo?style=social" alt="GitHub Badge">
+</p>
+
 このリポジトリは、Amazon SageMaker JumpStart の DeepSeek-R1 モデルを Terraform を用いてエンドポイントとしてデプロイし、Python スクリプトから推論呼び出しを行うサンプルです。
+
+>[!WARNING] 本サンプルは、現在検証中です
 
 ## 🔧 前提条件
 
